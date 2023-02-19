@@ -43,3 +43,10 @@ Never use `assert` to validate input.
 
 Do not check parameter types.
 Python encourages duck typing, not nominal typing.
+
+## Types of Exercises
+
+* Have them write their own tests
+* Have them find bugs in given code
+* Have them refactor a complex function (rename variables, divide into functions)
+* Improve efficiency
